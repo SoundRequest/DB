@@ -1,10 +1,11 @@
 {
-    "Status":true,
-    "ProgramVer":"0.0.1",
-    "InstallerVer":"0.0.1",
-    "TOS":"0.0.1",
-    "LastUpdated":"6/28/2020",
-    "ChangeLog":"Test",
-    "TOS_URL":"https://soundrequest.github.io/DB/Installer/TOS.txt",
-    "DownloadURL":"https://soundrequest.github.io/DB/SoundRequest.zip"
+  "Status": true,
+  "ProgramVer": "0.0.1",
+  "InstallerVer": "0.0.1",
+  "TOS": "0.0.1",
+  "LastUpdated": "6/28/2020",
+  "ChangeLog": "Test",
+  "TOS_URL": "https://soundrequest.github.io/DB/Installer/TOS.txt",
+  "DownloadURL": "https://soundrequest.github.io/DB/SoundRequest.zip",
+  "Shortcut": "main.exe"
 }
